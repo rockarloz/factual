@@ -339,7 +339,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/css/2016_style/img/header-bg.jpg');
+    background-image: url('https://bltimages-cdn2.global.ssl.fastly.net/uploads/event/banner/126048/large_Captura_de_pantalla_2017-10-11_a_la_s__14.12.00.png');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
